@@ -14,327 +14,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49c2e81f-36a1-4382-85a7-30ebf80b2958" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/.coding-ide/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/.mvn/jvm.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/.mvn/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/data/change_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/data/class-CMD-cfa.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/data/class-CMD-cfa.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/data/method-CMD-cfa.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/data/method-CMD-cfa.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/data/selection-class.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/data/selection-method.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/src/main/java/net/mooctest/CMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/src/test/java/net/mooctest/CMDTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/src/test/java/net/mooctest/CMDTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/src/test/java/net/mooctest/CMDTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/src/test/java/net/mooctest/CMDTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/classes/net/mooctest/CMD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/surefire-reports/TEST-net.mooctest.CMDTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/surefire-reports/TEST-net.mooctest.CMDTest1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/surefire-reports/TEST-net.mooctest.CMDTest2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/surefire-reports/TEST-net.mooctest.CMDTest3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/surefire-reports/net.mooctest.CMDTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/surefire-reports/net.mooctest.CMDTest1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/surefire-reports/net.mooctest.CMDTest2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/surefire-reports/net.mooctest.CMDTest3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/test-classes/net/mooctest/CMDTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/test-classes/net/mooctest/CMDTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/test-classes/net/mooctest/CMDTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/0-CMD/target/test-classes/net/mooctest/CMDTest3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/.mvn/jvm.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/.mvn/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/data/change_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/data/selection-class.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/data/selection-method.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/mooctest/pro.mt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/mooctest/submit.mt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/src.backup/main/java/net/mooctest/ALU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/src.backup/test/java/net/mooctest/ALUTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/src/main/java/net/mooctest/ALU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/src/test/java/net/mooctest/ALUAdderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/src/test/java/net/mooctest/ALUFloatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/src/test/java/net/mooctest/ALUGateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/src/test/java/net/mooctest/ALUIntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/src/test/java/net/mooctest/ALUOtherTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/src/test/java/net/mooctest/ALUOtherTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/classes/net/mooctest/ALU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/TEST-net.mooctest.ALUAdderTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/TEST-net.mooctest.ALUFloatTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/TEST-net.mooctest.ALUGateTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/TEST-net.mooctest.ALUIntegerTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/TEST-net.mooctest.ALUOtherTest1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/TEST-net.mooctest.ALUOtherTest2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/net.mooctest.ALUAdderTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/net.mooctest.ALUFloatTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/net.mooctest.ALUGateTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/net.mooctest.ALUIntegerTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/net.mooctest.ALUOtherTest1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/surefire-reports/net.mooctest.ALUOtherTest2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/test-classes/net/mooctest/ALUAdderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/test-classes/net/mooctest/ALUFloatTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/test-classes/net/mooctest/ALUGateTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/test-classes/net/mooctest/ALUIntegerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/test-classes/net/mooctest/ALUOtherTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/1-ALU/target/test-classes/net/mooctest/ALUOtherTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/.coding-ide/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/.mvn/jvm.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/.mvn/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/data/change_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/data/selection-class.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/data/selection-method.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/main/java/net/mooctest/Argument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/main/java/net/mooctest/Datalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/main/java/net/mooctest/Fact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/main/java/net/mooctest/Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/main/java/net/mooctest/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/main/java/net/mooctest/Rule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/main/java/net/mooctest/Substitution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/main/java/net/mooctest/Value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/main/java/net/mooctest/Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/test/java/net/mooctest/DatalogOtherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/test/java/net/mooctest/DatalogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/test/java/net/mooctest/DatalogTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/test/java/net/mooctest/DatalogTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/test/java/net/mooctest/DatalogTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/test/java/net/mooctest/DatalogTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/src/test/java/net/mooctest/DatalogTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/classes/net/mooctest/Argument.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/classes/net/mooctest/Datalog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/classes/net/mooctest/Fact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/classes/net/mooctest/Predicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/classes/net/mooctest/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/classes/net/mooctest/Rule.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/classes/net/mooctest/Substitution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/classes/net/mooctest/Value.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/classes/net/mooctest/Variable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/TEST-net.mooctest.DatalogOtherTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/TEST-net.mooctest.DatalogTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/TEST-net.mooctest.DatalogTest1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/TEST-net.mooctest.DatalogTest2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/TEST-net.mooctest.DatalogTest3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/TEST-net.mooctest.DatalogTest4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/TEST-net.mooctest.DatalogTest5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/net.mooctest.DatalogOtherTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/net.mooctest.DatalogTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/net.mooctest.DatalogTest1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/net.mooctest.DatalogTest2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/net.mooctest.DatalogTest3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/net.mooctest.DatalogTest4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/surefire-reports/net.mooctest.DatalogTest5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/test-classes/net/mooctest/DatalogOtherTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/test-classes/net/mooctest/DatalogTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/test-classes/net/mooctest/DatalogTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/test-classes/net/mooctest/DatalogTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/test-classes/net/mooctest/DatalogTest3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/test-classes/net/mooctest/DatalogTest4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/2-DataLog/target/test-classes/net/mooctest/DatalogTest5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/.mvn/jvm.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/.mvn/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/mooctest/pro.mt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/mooctest/submit.mt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/src.backup/main/java/net/mooctest/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/src.backup/main/java/net/mooctest/Overflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/src.backup/test/java/net/mooctest/BinaryHeapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/src/main/java/net/mooctest/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/src/main/java/net/mooctest/Overflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/src/test/java/net/mooctest/BinaryHeapForDeleteMinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/src/test/java/net/mooctest/BinaryHeapForFindMinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/src/test/java/net/mooctest/BinaryHeapForIsEmptyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/src/test/java/net/mooctest/BinaryHeapOtherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/classes/net/mooctest/BinaryHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/classes/net/mooctest/Overflow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/surefire-reports/TEST-net.mooctest.BinaryHeapForDeleteMinTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/surefire-reports/TEST-net.mooctest.BinaryHeapForFindMinTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/surefire-reports/TEST-net.mooctest.BinaryHeapForIsEmptyTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/surefire-reports/TEST-net.mooctest.BinaryHeapOtherTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/surefire-reports/net.mooctest.BinaryHeapForDeleteMinTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/surefire-reports/net.mooctest.BinaryHeapForFindMinTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/surefire-reports/net.mooctest.BinaryHeapForIsEmptyTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/surefire-reports/net.mooctest.BinaryHeapOtherTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/test-classes/net/mooctest/BinaryHeapForDeleteMinTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/test-classes/net/mooctest/BinaryHeapForFindMinTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/test-classes/net/mooctest/BinaryHeapForIsEmptyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/3-BinaryHeap/target/test-classes/net/mooctest/BinaryHeapOtherTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/.mvn/jvm.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/.mvn/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/data/change_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/data/selection-class.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/data/selection-method.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/mooctest/pro.mt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/mooctest/submit.mt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/main/java/net/mooctest/CalendarUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/main/java/net/mooctest/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/main/java/net/mooctest/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/main/java/net/mooctest/Month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/main/java/net/mooctest/Nextday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/main/java/net/mooctest/Year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/test/java/net/mooctest/CalendarUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/test/java/net/mooctest/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/test/java/net/mooctest/DayIsValidTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/test/java/net/mooctest/DayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/test/java/net/mooctest/IsLeapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/test/java/net/mooctest/MonthIsValidTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/test/java/net/mooctest/MonthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/test/java/net/mooctest/NextdayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src.backup/test/java/net/mooctest/YearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/main/java/net/mooctest/CalendarUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/main/java/net/mooctest/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/main/java/net/mooctest/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/main/java/net/mooctest/Month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/main/java/net/mooctest/Nextday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/main/java/net/mooctest/Year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/test/java/net/mooctest/CalendarUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/test/java/net/mooctest/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/test/java/net/mooctest/DayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/test/java/net/mooctest/MonthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/test/java/net/mooctest/NextdayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/src/test/java/net/mooctest/YearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/classes/net/mooctest/CalendarUnit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/classes/net/mooctest/Date.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/classes/net/mooctest/Day.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/classes/net/mooctest/Month.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/classes/net/mooctest/Nextday.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/classes/net/mooctest/Year.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/TEST-net.mooctest.CalendarUnitTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/TEST-net.mooctest.DateTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/TEST-net.mooctest.DayTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/TEST-net.mooctest.MonthTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/TEST-net.mooctest.NextdayTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/TEST-net.mooctest.YearTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/net.mooctest.CalendarUnitTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/net.mooctest.DateTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/net.mooctest.DayTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/net.mooctest.MonthTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/net.mooctest.NextdayTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/surefire-reports/net.mooctest.YearTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/test-classes/net/mooctest/CalendarUnitTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/test-classes/net/mooctest/DateTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/test-classes/net/mooctest/DayTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/test-classes/net/mooctest/MonthTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/test-classes/net/mooctest/NextdayTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/4-NextDay/target/test-classes/net/mooctest/YearTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/.mvn/jvm.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/.mvn/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/data/change_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/data/selection-class.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/data/selection-method.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/mooctest/pro.mt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/mooctest/submit.mt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src.backup/main/java/net/mooctest/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src.backup/main/java/net/mooctest/MoreTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src.backup/main/java/net/mooctest/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src.backup/main/java/net/mooctest/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src.backup/test/java/net/mooctest/MoreTriangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src/main/java/net/mooctest/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src/main/java/net/mooctest/MoreTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src/main/java/net/mooctest/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src/main/java/net/mooctest/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src/test/java/net/mooctest/AreaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src/test/java/net/mooctest/InsideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src/test/java/net/mooctest/MoreTriangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src/test/java/net/mooctest/PerimeterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/src/test/java/net/mooctest/VectorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/classes/net/mooctest/Edge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/classes/net/mooctest/MoreTriangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/classes/net/mooctest/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/classes/net/mooctest/Vector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/surefire-reports/TEST-net.mooctest.AreaTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/surefire-reports/TEST-net.mooctest.InsideTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/surefire-reports/TEST-net.mooctest.MoreTriangleTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/surefire-reports/TEST-net.mooctest.PerimeterTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/surefire-reports/TEST-net.mooctest.VectorTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/surefire-reports/net.mooctest.AreaTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/surefire-reports/net.mooctest.InsideTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/surefire-reports/net.mooctest.MoreTriangleTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/surefire-reports/net.mooctest.PerimeterTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/surefire-reports/net.mooctest.VectorTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/test-classes/net/mooctest/AreaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/test-classes/net/mooctest/InsideTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/test-classes/net/mooctest/MoreTriangleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/test-classes/net/mooctest/PerimeterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Data/5-MoreTriangle/target/test-classes/net/mooctest/VectorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_wala_com_ibm_wala_core_1_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_wala_com_ibm_wala_shrike_1_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_wala_com_ibm_wala_util_1_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependencies.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selection-class.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/rt.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Report/class-01ALU.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Report/class-02DataLog.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Report/class-03BinaryHeap.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Report/class-04NextDay.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Report/class-05MoreTriangles.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection-class.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MyTestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MyTestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-testSelection.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-testSelection.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/testSelection.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/testSelection.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report/class-01ALU.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Report/class-01ALU.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report/class-02DataLog.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Report/class-02DataLog.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report/class-03BinaryHeap.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Report/class-03BinaryHeap.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report/class-04NextDay.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Report/class-04NextDay.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report/class-05MoreTriangles.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -404,18 +96,7 @@
     <configuration name="MyTestController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyTestController" />
       <module name="Project" />
-      <option name="PROGRAM_PARAMETERS" value="-c E:\AutomatedTesting2020\Data\5-MoreTriangle E:\AutomatedTesting2020\Data\5-MoreTriangle\change_info.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PROGRAM_PARAMETERS" value="-c E:\AutomatedTesting2020\Data\2-DataLog E:\AutomatedTesting2020\Data\2-DataLog\change_info.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -446,6 +127,9 @@
       <workItem from="1605782568056" duration="21955000" />
       <workItem from="1605843242642" duration="16351000" />
       <workItem from="1605861607613" duration="17254000" />
+      <workItem from="1605935865539" duration="11969000" />
+      <workItem from="1605948525596" duration="1826000" />
+      <workItem from="1605950422064" duration="495000" />
     </task>
     <servers />
   </component>
@@ -472,10 +156,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1605807042400" />
-    <state x="210" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605934548980">
+    <state x="246" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605950352318">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="210" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605934548980" />
+    <state x="246" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605950352318" />
     <state x="506" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605864330971">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -492,26 +176,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605807250016" />
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="DiffContextDialog" timestamp="1605950025510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605950025510" />
     <state x="528" y="110" key="FileChooserDialogImpl" timestamp="1605782719208">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="528" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605782719208" />
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1605935350998">
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1605950368748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605935350998" />
-    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1605935350997">
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605950368748" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1605950368748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605935350997" />
-    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1605935350997">
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605950368748" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1605950368748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605935350997" />
-    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1605935350998">
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605950368748" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1605950368748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605935350998" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605950368748" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605860834695">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
