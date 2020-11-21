@@ -1,5 +1,4 @@
 import com.ibm.wala.classLoader.IClass;
-import com.ibm.wala.classLoader.IMethod;
 import com.ibm.wala.classLoader.Language;
 import com.ibm.wala.ipa.callgraph.*;
 import com.ibm.wala.ipa.callgraph.cha.CHACallGraph;
@@ -11,10 +10,11 @@ import com.ibm.wala.ipa.cha.ClassHierarchyFactory;
 import com.ibm.wala.util.CancelException;
 import com.ibm.wala.util.WalaException;
 import com.ibm.wala.util.config.AnalysisScopeReader;
-import com.ibm.wala.viz.DotUtil;
 
 import java.io.*;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
 
 public class MyTestController {
     static ArrayList<String> classFilePaths = new ArrayList<String>();
